@@ -1,1 +1,2 @@
-# lab02
+lopez codificando
+uno de 2
